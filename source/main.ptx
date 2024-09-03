@@ -6,8 +6,8 @@
 
   <book xml:id="my-great-book">
     <title>Code Structure</title>
-    <subtitle>An example to get you started</subtitle>
-
+    <subtitle>Fluency Building</subtitle>
+     
     <!-- Include frontmatter -->
     <xi:include href="./frontmatter.ptx" />
 
@@ -17,6 +17,12 @@
 
     <!-- Include backmatter -->
     <xi:include href="./backmatter.ptx" />
+    <p Determine which code blocks have the same functionality with the first code block (for any given input, they produce the same output)       >
+      
+
+
+
+
 
   </book>
 </pretext>
